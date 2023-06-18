@@ -41,6 +41,7 @@ Certainly! is a basic program created to show how JavaScript can be used for gra
 
 If you have any suggestions or improvements, feel free to contribute! You can submit your changes as a pull request.
 
+Challenge 2;
 
 # Fast X
 
@@ -87,7 +88,8 @@ Fast X is a basic program created to show how JavaScript can be used for calcula
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request.
 
-
+Challenge 3;
+git 
 # Salary Calculator
 
 The Salary Calculator is a simple JavaScript program that helps you calculate your salary. You just need to enter your basic salary and any additional benefits you receive, and it will calculate your gross salary, deductions, and net salary.
