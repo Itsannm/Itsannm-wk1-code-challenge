@@ -35,7 +35,7 @@ The student's marks are 85, and "Let's get graded!" determined that it correspon
 
 ## Limitations
 
-Certainly! is a basic program created to show how JavaScript can be used for grading. It doesn't have fancy features like saving data or fancy interfaces. It's best used for as a starting point for learning javaScript.
+Let's get graded! is a basic program created to show how JavaScript can be used for grading. It doesn't have fancy features like saving data or fancy interfaces. It's best used for as a starting point for learning javaScript.
 
 ## Contributing
 
